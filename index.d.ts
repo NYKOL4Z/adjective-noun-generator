@@ -1,2 +1,2 @@
-export default function (): string;
-//# sourceMappingURL=index.d.ts.map
+import { Options } from './types/options.type';
+export default function generateRandomName(options?: Options): string;

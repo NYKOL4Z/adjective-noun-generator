@@ -1,6 +1,6 @@
 {
   "name": "adjective-noun-generator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generates a random name consisting of an adjective and a noun.",
   "main": "index.js",
   "scripts": {
@@ -28,3 +28,4 @@
   },
   "homepage": "https://github.com/NYKOL4Z/adjective-noun-generator#readme"
 }
+
